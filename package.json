@@ -9,7 +9,7 @@
     },
     "dependencies" : {},
     "devDependencies" : {
-        "tape" : "~3.5.0"
+        "tape" : "3.5.0"
     },
     "scripts" : {
         "test" : "tape test/*.js"
